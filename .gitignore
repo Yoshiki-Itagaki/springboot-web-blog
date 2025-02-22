@@ -13,6 +13,14 @@ build/
 .settings
 .springBeans
 .sts4-cache
+build.gradle
+gradlew
+gradlew.bat
+gradle/
+settings.gradle
+.gitattributes
+src/main/resources/application.properties
+
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
